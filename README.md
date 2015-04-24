@@ -43,13 +43,13 @@ for loop 1 to 100 {
      skip
   }
   else if A {
-     print age
+     print my age
   }
   else if B {
-     print ZIP code
+     print my ZIP code
   }
   else {
-     print number
+     print the number
   }
 }
 ```
