@@ -11,7 +11,7 @@ This type of problem is called a Fizz Buzz test and is common during professiona
 ###Approaching it as a Venn Diagram
 ![venn d](http://uvalaw.typepad.com/.a/6a00d8349d72fd69e201676818db67970b-pi)
 
-There are two different situations to check for:
+  There are two different situations to check for:
 
 1. If the number is divisible by 4 - let's call this A
 2. If the number is divisible by 7 - let's call this B
