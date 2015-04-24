@@ -30,6 +30,35 @@ There were two very popular ways to solve it.
 
 Which way did you use?
 
-Try to solve it the other way!
 
-###Writing Psuedo Code
+###Writing Pseudo Code
+
+Since there are a variety of programming languages being used, we will using pseudo code to solve how to structure your code. Pseudo means fake - it isn't really a programming language. You still have to turn it into actual code that your computer will understand!
+
+This is a great way to think out how to structure your code before you actually type it out. 
+
+```
+for loop 1 to 100 {
+  if A and B {
+     skip
+  }
+  else if A {
+     print age
+  }
+  else if B {
+     print ZIP code
+  }
+  else {
+     print number
+  }
+}
+```
+
+###Your Turn!
+You are going to solve it again the other way. So if you submitted a solution that used 1 above, use 2 this time. And vice versa. 
+
+Now:
+1. Write pseudo code to think through how to structure it
+2. Convert it to actual code
+
+
