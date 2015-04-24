@@ -26,7 +26,7 @@ This type of problem is called a Fizz Buzz test and is common during professiona
 There were two very popular ways to solve it. 
 
 1. Using a combination of: if, else if, else if, else
-2. Using 3 if/elses
+2. Using 3 nested if/elses (nested means one inside the other)
 
 Which way did you use?
 
