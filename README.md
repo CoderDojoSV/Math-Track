@@ -18,7 +18,7 @@ There are two different situations to check for:
 
 But sometimes we want to skip the line and sometimes we just want to print the number. 
 
-3. If both A and B - this is the overlapped part of the Venn Diagram
-4. If neither A nor B - this is everything outside the circles in the Venn Diagram
+ 3. If both A and B - this is the overlapped part of the Venn Diagram
+ 4. If neither A nor B - this is everything outside the circles in the Venn Diagram
 
 
