@@ -94,3 +94,6 @@ There are plenty of Project Euler problems that require concepts like arrays and
 [Link to Project Euler problem 12](https://projecteuler.net/problem=12)
 
 [Link to Project Euler problem 14](https://projecteuler.net/problem=14)
+
+http://www.acsl.org/samples.htm
+http://www.usaco.org/index.php?page=resources
