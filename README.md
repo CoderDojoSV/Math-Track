@@ -16,9 +16,9 @@ There are two different situations to check for:
 1. If the number is divisible by 4 - let's call this A
 2. If the number is divisible by 7 - let's call this B
 
-But sometimes we want to skip the line and sometimes we just want to print the number. 
+  But sometimes we want to skip the line and sometimes we just want to print the number:
 
- 3. If both A and B - this is the overlapped part of the Venn Diagram
- 4. If neither A nor B - this is everything outside the circles in the Venn Diagram
+3. If both A and B - this is the overlapped part of the Venn Diagram
+4. If neither A nor B - this is everything outside the circles in the Venn Diagram
 
 
