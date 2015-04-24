@@ -21,4 +21,15 @@ This type of problem is called a Fizz Buzz test and is common during professiona
 3. If both A and B - this is the overlapped part of the Venn Diagram
 4. If neither A nor B - this is everything outside the circles in the Venn Diagram
 
+###Many ways to solve the problem
 
+There were two very popular ways to solve it. 
+
+1. Using a combination of: if, else if, else if, else
+2. Using 3 if/elses
+
+Which way did you use?
+
+Try to solve it the other way!
+
+###Writing Psuedo Code
