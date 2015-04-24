@@ -95,5 +95,9 @@ There are plenty of Project Euler problems that require concepts like arrays and
 
 [Link to Project Euler problem 14](https://projecteuler.net/problem=14)
 
-http://www.acsl.org/samples.htm
-http://www.usaco.org/index.php?page=resources
+##Do You Like These Kinds of Challenges?
+
+TopCoder and USACO
+
+http://www.usaco.org/
+http://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Advanced+Math&div1l=&div2l=1&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=
