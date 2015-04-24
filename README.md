@@ -35,7 +35,7 @@ Which way did you use?
 
 Since there are a variety of programming languages being used, we will using pseudo code to solve how to structure your code. Pseudo means fake - it isn't really a programming language. You still have to turn it into actual code that your computer will understand!
 
-This is a great way to think out how to structure your code before you actually type it out. 
+This is a great way to think out how to structure your code before you actually type it out. It's a combination of code logic and actual words. Here is an example:
 
 ```
 for loop 1 to 100 {
@@ -60,5 +60,24 @@ You are going to solve it again the other way. So if you submitted a solution th
 Now:
 1. Write pseudo code to think through how to structure it
 2. Convert it to actual code
+
+##Project Euler Problems
+
+[Project Euler](https://projecteuler.net/) is a website that has challenging math problems that require code to solve them. There are hundreds of problems that quickly become extremely difficult, but some are very similar to our FizzBuzz entry problem.
+
+###Problem 1
+
+[Link to Project Euler problem 1](https://projecteuler.net/problem=1)
+```
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
+```
+Think about how to structure this solution. I recommend writing pseudo code first and showing it to a mentor before writing any code.
+
+Hint: it's easiest to keep a running total of the sum as you go.
+
+###Problem 6
+
+[Link to Project Euler problem 6](https://projecteuler.net/problem=6)
+
 
 
