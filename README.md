@@ -97,7 +97,6 @@ See [Project Euler problem 14](https://projecteuler.net/problem=14).
 
 ##Do You Like These Kinds of Challenges?
 
-TopCoder and USACO
-
-http://www.usaco.org/
-http://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Advanced+Math&div1l=&div2l=1&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=
+Here are more sites you might like:
+* [TopCoder](http://www.usaco.org/)
+* [USACO](http://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Advanced+Math&div1l=&div2l=1&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=)
