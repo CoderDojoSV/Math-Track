@@ -79,7 +79,7 @@ Once you finish, try solving [problem 5](https://projecteuler.net/problem=5) on 
 
 ###Problem 6
 
-[Link to Project Euler problem 6](https://projecteuler.net/problem=6)
+See [Project Euler problem 6](https://projecteuler.net/problem=6).
 
 `Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum. Click the link above for an example.`
 
@@ -91,9 +91,9 @@ Hint: Use two different for loops and keep a running total for each as you go.
 
 There are plenty of Project Euler problems that require concepts like arrays and recursion to realistically solve them. Here are two more hard problems that you might like to try:
 
-[Link to Project Euler problem 12](https://projecteuler.net/problem=12)
+See [Project Euler problem 12](https://projecteuler.net/problem=12).
 
-[Link to Project Euler problem 14](https://projecteuler.net/problem=14)
+See [Project Euler problem 14](https://projecteuler.net/problem=14).
 
 ##Do You Like These Kinds of Challenges?
 
