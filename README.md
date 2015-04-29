@@ -97,6 +97,8 @@ See [Project Euler problem 14](https://projecteuler.net/problem=14).
 
 ##Do You Like These Kinds of Challenges?
 
-Here are more sites you might like:
-* [TopCoder](http://www.usaco.org/)
-* [USACO](http://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Advanced+Math&div1l=&div2l=1&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=)
+Project Euler has hundreds of more problems, but they get really hard - some require more advanced computer science techniques to solve, where a simple approach might have to run for years before providing an answer! There are two other sites I recommend you try instead. 
+
+[USA Computing Olympiad](http://www.usaco.org/) runs programming competitions for middle and high schoolers. They have extensive training resources that provide fun challenges. 
+
+[TopCoder](https://www.topcoder.com) is another website with interesting challenges. I recommend using the [TopCoder Arena Practice Problems](https://arena.topcoder.com/#/u/practiceProblemList) and filtering for problems with an Easy Difficulty and worth 250 points.
