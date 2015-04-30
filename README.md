@@ -89,7 +89,7 @@ Hint: Use two different for loops and keep a running total for each as you go.
 
 ##The Next Step Up In Difficulty
 
-There are plenty of Project Euler problems that require concepts like arrays and recursion to realistically solve them. Here are two more hard problems that you might like to try:
+There are plenty of Project Euler problems that require concepts like arrays and recursion to realistically solve them. Here are two more hard problems that don't require more advanced CS concepts that you might like to try:
 
 See [Project Euler problem 12](https://projecteuler.net/problem=12).
 
