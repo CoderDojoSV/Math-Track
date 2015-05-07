@@ -101,6 +101,6 @@ Project Euler has hundreds of more problems, but they get really hard - some req
 
 [USA Computing Olympiad](http://www.usaco.org/) runs programming competitions for middle and high schoolers. They have extensive training resources that provide fun challenges. 
 
-[TopCoder](https://www.topcoder.com) is another website with interesting challenges. I recommend using the [TopCoder Arena Practice Problems](https://arena.topcoder.com/#/u/practiceProblemList) and filtering for problems with an Easy Difficulty and worth 250 points.
-
 [HackerRank](https://www.hackerrank.com/) is another excellent one to check out.
+
+[TopCoder](https://www.topcoder.com) is another website with interesting challenges. I recommend using the [TopCoder Arena Practice Problems](https://arena.topcoder.com/#/u/practiceProblemList) and filtering for problems with an Easy Difficulty and worth 250 points.
