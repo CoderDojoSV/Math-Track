@@ -2,13 +2,13 @@
 
 Welcome! We are going to use code to solve some math problems. You can use any programming language you prefer.
 
-##The Entry Problem
+## The Entry Problem
 
 `Print out a list of numbers from 1 to 100 each on a new line. However, if the number is divisible by 4, print your age. If the number is divisible by 7, print your ZIP code. If the number is divisible by both 4 and 7, skip to the next number (don't print anything).`
 
 This type of problem is called a Fizz Buzz test and is common during professional interviews. If you solved it, congratualations! You know how to use conditionals and loops to solve problems, so let's see what else we can do!
 
-###Approaching it as a Venn Diagram
+### Approaching it as a Venn Diagram
 ![venn d](http://uvalaw.typepad.com/.a/6a00d8349d72fd69e201676818db67970b-pi)
 
   There are two different situations to check for:
@@ -21,7 +21,7 @@ This type of problem is called a Fizz Buzz test and is common during professiona
 3. If both A and B - this is the overlapped part of the Venn Diagram
 4. If neither A nor B - this is everything outside the circles in the Venn Diagram
 
-###Many ways to solve the problem
+### Many ways to solve the problem
 
 There were two very popular ways to solve it. 
 
@@ -31,7 +31,7 @@ There were two very popular ways to solve it.
 Which way did you use?
 
 
-###Writing Pseudo Code
+### Writing Pseudo Code
 
 Since there are a variety of programming languages being used, we will using pseudo code to solve how to structure your code. Pseudo means fake - it isn't really a programming language. You still have to turn it into actual code that your computer will understand!
 
@@ -54,18 +54,18 @@ for loop 1 to 100 {
 }
 ```
 
-###Your Turn!
+### Your Turn!
 You are going to solve it again the other way. So if you submitted a solution that used 1 above, use 2 this time. And vice versa. 
 
 Now:
 1. Write pseudo code to think through how to structure it
 2. Convert it to actual code
 
-##Project Euler Problems
+## Project Euler Problems
 
 [Project Euler](https://projecteuler.net/) is a website that has challenging math problems that require code to solve them. There are hundreds of problems that quickly become extremely difficult, but some are very similar to our FizzBuzz entry problem.
 
-###Problem 1
+### Problem 1
 
 [Link to Project Euler problem 1](https://projecteuler.net/problem=1)
 
@@ -77,7 +77,7 @@ Hint: it's easiest to keep a running total of the sum as you go.
 
 Once you finish, try solving [problem 5](https://projecteuler.net/problem=5) on your own before we keep going as a group.
 
-###Problem 6
+### Problem 6
 
 See [Project Euler problem 6](https://projecteuler.net/problem=6).
 
@@ -87,7 +87,7 @@ Again, think about it first and write pseudo code. Show a mentor before going on
 
 Hint: Use two different for loops and keep a running total for each as you go.
 
-##The Next Step Up In Difficulty
+## The Next Step Up In Difficulty
 
 There are plenty of Project Euler problems that require concepts like arrays and recursion to realistically solve them. Here are two more hard problems that don't require more advanced CS concepts that you might like to try:
 
@@ -95,7 +95,7 @@ See [Project Euler problem 12](https://projecteuler.net/problem=12).
 
 See [Project Euler problem 14](https://projecteuler.net/problem=14).
 
-##Do You Like These Kinds of Challenges?
+## Do You Like These Kinds of Challenges?
 
 Project Euler has hundreds of more problems, but they get really hard - some require more advanced computer science techniques to solve, where a simple approach might have to run for years before providing an answer! There are two other sites I recommend you try instead. 
 
